@@ -1,3 +1,3 @@
 # hello-world
--It's good initial!
+*It's good initial!
 Not bad.
